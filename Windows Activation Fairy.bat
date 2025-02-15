@@ -22,7 +22,7 @@ echo "     \ V  V /| | | | | (_| | (_) \ V  V /\__ \    | (_| | (__| |_| |\ V / 
 echo "      \_/\_/ |_|_| |_|\__,_|\___/ \_/\_/ |___/     \__,_|\___|\__|_| \_/ \__,_|\__|_|\___/|_| |_|    |_|  \__,_|_|_|   \__, |
 echo "                                                                                                                       |___/ 
 echo                                                                                                                           v1.0
-echo        Author : Amina Belhadj               github : github.com/Mrs-Crow
+echo        Author : Amina Belhadj               github : github.com/Miss-Crow
 echo.
 echo.
 echo            Select your Windows Version and click ENTER
